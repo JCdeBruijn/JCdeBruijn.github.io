@@ -37,9 +37,9 @@ disqus:
 facebook: # myfacebook
 twitter: # mytwitter
 instagram: # myinstagram
-linkedin: https://www.linkedin.com/in/joost-de-bruijn/
-github: # mygithub
-email: mailto:j.c.de.bruijn.1@gmail.com
+linkedin: /joost-de-bruijn/
+github: JCdeBruijn
+email: j.c.de.bruijn.1@gmail.com
 
 authors:
   johndoe:
