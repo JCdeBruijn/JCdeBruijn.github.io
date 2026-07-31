@@ -2,7 +2,6 @@
 title: Over mij
 layout: page
 ---
-![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
 <p>
 	Mijn achtergrond ligt in de Biomedische Wetenschappen & Filosofie. Deze opleidingen heb ik gevolgd aan de Rijksuniversiteit Groningen. Daarnaast ben ik ook (beperkt) bevoegd 2e-graads docent biologie. 
