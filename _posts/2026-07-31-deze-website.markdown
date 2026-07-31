@@ -11,7 +11,7 @@ star: true
 category: blog
 author: johndoe
 description: Een eigen website
-hidden: true
+hidden: false
 ---
 
 ## Welkom op mijn website
