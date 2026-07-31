@@ -9,7 +9,7 @@ layout: page
 	Daartoe adviseer ik gemeenten, instellingen, professionals en burgers. Voorkomen is beter dan genezen!
 </p>
 
-<h2>Skills</h2>
+<h2>Vaardigheden</h2>
 
 <ul class="skill-list">
 	<li>Publieke gezondheid</li>
