@@ -6,7 +6,7 @@ image: /assets/images/
 headerImage: false
 star: true
 category: blog
-author: johndoe
+author: joost
 description: Een eigen website
 ---
 
