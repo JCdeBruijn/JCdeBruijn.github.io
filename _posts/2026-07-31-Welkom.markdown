@@ -1,5 +1,5 @@
 ---
-title: "Deze website"
+title: "Welkom"
 layout: post
 date: 2026-07-31 14:00
 image: /assets/images/
