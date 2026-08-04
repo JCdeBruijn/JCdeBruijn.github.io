@@ -5,10 +5,6 @@ date: 2026-08-02 19:00
 image: /assets/images/markdown.jpg
 headerImage: false
 star: true
-tag:
-- preventie
-- universele preventie
-- gezondheid
 category: blog
 author: joost
 description: Wat bedoelt men met "preventie"? 
