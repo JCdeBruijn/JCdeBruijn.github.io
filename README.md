@@ -7,6 +7,5 @@
 ---
 
 Gebruikt thema: Indigo © Sérgio Kopplin
-Conform [MIT](https://kopplin.mit-license.org/)-licentie 
 
 ---
