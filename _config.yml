@@ -65,10 +65,10 @@ blog: true
 read-time: true
 
 # do you want to show the "tags" inside the posts?
-show-tags: true
+show-tags: false
 
 # related posts inside a post?
-related: true
+related: false
 
 # Display links for next and previous posts for the specified categories
 post-advance-links: [blog]
@@ -87,7 +87,7 @@ defaults:
     values:
       # setting all post to not hidden by default,
       # can be overridden in the front matter for a specific post
-      hidden: false
+      hidden: true
 
 plugins:
   - jekyll-seo-tag
