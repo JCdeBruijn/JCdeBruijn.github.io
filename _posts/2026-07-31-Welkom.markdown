@@ -6,7 +6,7 @@ image: /assets/images/markdown.jpg
 headerImage: false
 tag: 
 - start
-star: true
+star: false
 category: blog
 author: joost
 description: Een eigen website
