@@ -4,7 +4,6 @@ layout: post
 date: 2026-08-02 19:00
 image: /assets/images/markdown.jpg
 headerImage: false
-star: true
 category: blog
 author: joost
 description: Wat bedoelt men met "preventie"? 
