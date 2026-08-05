@@ -8,6 +8,7 @@ tag:
 - preventie 
 - gezondheid
 - zorgakkoorden
+star: true
 category: blog
 author: joost
 description: Wat bedoelt men met "preventie"? 
