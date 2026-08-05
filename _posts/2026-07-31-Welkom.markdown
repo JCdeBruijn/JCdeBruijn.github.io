@@ -4,7 +4,6 @@ layout: post
 date: 2026-07-31 14:00
 image: /assets/images/
 headerImage: false
-star: true
 category: blog
 author: joost
 description: Een eigen website
