@@ -4,7 +4,6 @@ layout: post
 date: 2026-08-04 19:00
 image: /assets/images/code-rood.jpg
 headerImage: true
-star: true
 category: blog
 author: joost
 description: Wat kunnen we leren van de eerste keer code rood voor hitte?
