@@ -40,7 +40,7 @@ Een aantal quotes uit de analyse:
 
 >"𝘋𝘦𝘻𝘦 𝘩𝘪𝘵𝘵𝘦𝘱𝘦𝘳𝘪𝘰𝘥𝘦 𝘸𝘢𝘴 𝘨𝘦𝘦𝘯 𝘨𝘦𝘣𝘦𝘶𝘳𝘵𝘦𝘯𝘪𝘴 𝘥𝘪𝘦 𝘷𝘳𝘰𝘦𝘨 𝘰𝘮 𝘷𝘦𝘦𝘭 𝘨𝘳𝘰𝘵𝘦 𝘣𝘦𝘴𝘭𝘪𝘴𝘴𝘪𝘯𝘨𝘦𝘯; 𝘩𝘦𝘵 𝘨𝘪𝘯𝘨 𝘸𝘦𝘭 𝘨𝘦𝘱𝘢𝘢𝘳𝘥 𝘮𝘦𝘵 𝘦𝘯𝘪𝘨𝘦 𝘣𝘦𝘴𝘵𝘶𝘶𝘳𝘭𝘪𝘫𝘬𝘦 𝘰𝘯𝘻𝘦𝘬𝘦𝘳𝘩𝘦𝘪𝘥 (𝘨𝘦𝘦𝘯 𝘱𝘭𝘢𝘯𝘯𝘦𝘯 𝘰𝘧 𝘤𝘩𝘦𝘤𝘬𝘭𝘪𝘴𝘵; 𝘨𝘦𝘦𝘯 𝘰𝘧 𝘸𝘦𝘪𝘯𝘪𝘨 𝘦𝘳𝘷𝘢𝘳𝘪𝘯𝘨 𝘮𝘦𝘵 𝘻𝘰’𝘯 𝘨𝘦𝘣𝘦𝘶𝘳𝘵𝘦𝘯𝘪𝘴)"
 
-Er worden een aantal aanbevelingen gegeven voor vervolgbeleid. Onder andere wordt er een punt gemaakt over het verbreden van het nationaal hitteplan naar acties m.b.t. veiligheid en infrastructuur, naast acties en communicatie op het gebied van gezondheid. Gemeenten kunnen dit ook in het lokaal hitteplan toepassen, omdat hier alle acties en verantwoordelijkheden omtrent hitte in beschreven staan. 
+Er worden een aantal aanbevelingen gegeven voor vervolgbeleid. Onder andere wordt er een punt gemaakt over het verbreden van het nationaal hitteplan naar acties m.b.t. veiligheid en infrastructuur, naast acties en communicatie op het gebied van gezondheid. 
 
 ## Wat kan een gemeente doen tegen extreme hitte?
 
