@@ -12,6 +12,7 @@ star: true
 category: blog
 author: joost
 description: Wat kunnen we leren van de eerste keer code rood voor hitte?
+hidden: false
 ---
 
 ## Voor het eerst code rood in Nederland voor hitte
