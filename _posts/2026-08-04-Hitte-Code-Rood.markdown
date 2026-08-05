@@ -8,6 +8,7 @@ tag:
 - hitte
 - gezondheid
 - hitteplan
+star: true
 category: blog
 author: joost
 description: Wat kunnen we leren van de eerste keer code rood voor hitte?
