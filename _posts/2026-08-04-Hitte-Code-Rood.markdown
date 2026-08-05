@@ -29,7 +29,7 @@ Hierbij kan de vraag naar boven komen: Wat kan de gemeenteambtenaar nu doen om d
 ## Analyse NIPV
 
 Het Nederlands Instituut voor Publieke Veiligheid (NIPV) heeft een analyse naar de impact en (crisis)respons uitgevoerd.
-Deze analyse is hier te vinden: https://nipv.nl/wp-content/uploads/2026/07/20260728_NIPV-Extreme-hitte-in-Nederland.pdf 
+Deze analyse is [hier](https://nipv.nl/wp-content/uploads/2026/07/20260728_NIPV-Extreme-hitte-in-Nederland.pdf) te vinden. 
 De invalshoek van het NIPV is een goede toevoeging op het perspectief van publieke gezondheid. 
 
 Een aantal quotes uit de analyse: 
@@ -40,23 +40,15 @@ Een aantal quotes uit de analyse:
 
 >"𝘋𝘦𝘻𝘦 𝘩𝘪𝘵𝘵𝘦𝘱𝘦𝘳𝘪𝘰𝘥𝘦 𝘸𝘢𝘴 𝘨𝘦𝘦𝘯 𝘨𝘦𝘣𝘦𝘶𝘳𝘵𝘦𝘯𝘪𝘴 𝘥𝘪𝘦 𝘷𝘳𝘰𝘦𝘨 𝘰𝘮 𝘷𝘦𝘦𝘭 𝘨𝘳𝘰𝘵𝘦 𝘣𝘦𝘴𝘭𝘪𝘴𝘴𝘪𝘯𝘨𝘦𝘯; 𝘩𝘦𝘵 𝘨𝘪𝘯𝘨 𝘸𝘦𝘭 𝘨𝘦𝘱𝘢𝘢𝘳𝘥 𝘮𝘦𝘵 𝘦𝘯𝘪𝘨𝘦 𝘣𝘦𝘴𝘵𝘶𝘶𝘳𝘭𝘪𝘫𝘬𝘦 𝘰𝘯𝘻𝘦𝘬𝘦𝘳𝘩𝘦𝘪𝘥 (𝘨𝘦𝘦𝘯 𝘱𝘭𝘢𝘯𝘯𝘦𝘯 𝘰𝘧 𝘤𝘩𝘦𝘤𝘬𝘭𝘪𝘴𝘵; 𝘨𝘦𝘦𝘯 𝘰𝘧 𝘸𝘦𝘪𝘯𝘪𝘨 𝘦𝘳𝘷𝘢𝘳𝘪𝘯𝘨 𝘮𝘦𝘵 𝘻𝘰’𝘯 𝘨𝘦𝘣𝘦𝘶𝘳𝘵𝘦𝘯𝘪𝘴)"
 
+Er worden een aantal aanbevelingen gegeven voor vervolgbeleid. Onder andere wordt er een punt gemaakt over het verbreden van het nationaal hitteplan naar acties m.b.t. veiligheid en infrastructuur, naast acties en communicatie op het gebied van gezondheid. Gemeenten kunnen dit ook in het lokaal hitteplan toepassen, omdat hier alle acties en verantwoordelijkheden omtrent hitte in beschreven staan. 
+
 ## Wat kan een gemeente doen tegen extreme hitte?
 
-<div class="side-by-side">
-    <div class="toleft">
-        <img class="image" src="assets/images/meneer-heeft-het-warm.jpeg" alt="meneer die het warm heeft">
-    </div>
+1. Stel een lokaal hitteplan op! Het lokaal hitteplan is een acuut instrument/draaiboek dat zich richt op communicatie naar de bevolking en direct uitvoerbare acties. Begin bij de [vernieuwde handreiking lokaal hitteplan](https://klimaatadaptatienederland.nl/hulpmiddelen/overzicht/lokaal-hitteplan/). De gemeente is coördinator van het lokaal hitteplan, maar uiteindelijk wordt het vastgesteld samen met lokale partners. 
 
-    <div class="toright">
-        <p>1. Stel een lokaal hitteplan op! 
-          Het hitteplan is een acuut instrument/draaiboek dat zich vooral richt op communicatie naar de bevolking en direct uitvoerbare acties. 
-          Begin bij de vernieuwde handreiking lokaal hitteplan: https://klimaatadaptatienederland.nl/hulpmiddelen/overzicht/lokaal-hitteplan/</p>
-    </div>
-</div>
+2. Maak integraal hittebeleid met een integraal actieplan hitte. Dit is een beleidsinstrument waarmee kan worden gewerkt aan preventie en lange(re) termijn maatregelen tegen hitte. Ook hier is [een handreiking](klimaatadaptatienederland.nl/hulpmiddelen/overzicht/menukaart-hitte/) voor beschikbaar. Het integraal actieplan hitte is onderdeel van het bredere klimaatadaptatie- en gezondheidsbeleid is de gemeente. 
 
-2. Maak integraal hittebeleid met een integraal actieplan hitte. Dit is een beleidsinstrument waarmee kan worden gewerkt aan preventie en lange(re) termijn maatregelen tegen hitte. Ook hier is een handreiking voor beschikbaar: klimaatadaptatienederland.nl/hulpmiddelen/overzicht/menukaart-hitte/
-
-Meer tips en bronnen zijn te vinden op de website van GGD-GHOR NL: https://ggdghor.nl/actueel-bericht/hitte-tips/. Daarnaast kan je je lokale GGD altijd vragen om advies en ondersteuning. 
+Meer tips en bronnen zijn te vinden op de website van [GGD-GHOR NL](https://ggdghor.nl/actueel-bericht/hitte-tips/). Daarnaast kan je je lokale GGD altijd vragen om advies en ondersteuning. 
 
 
 
