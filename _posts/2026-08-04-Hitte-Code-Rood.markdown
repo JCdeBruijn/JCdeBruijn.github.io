@@ -8,7 +8,7 @@ tag:
 - hitte
 - gezondheid
 - hitteplan
-star: true
+star: false
 category: blog
 author: joost
 description: Wat kunnen we leren van de eerste keer code rood voor hitte?
@@ -42,25 +42,9 @@ Een aantal quotes uit de analyse:
 
 ## Wat kan een gemeente doen tegen extreme hitte?
 
-{% highlight html %}
 <div class="side-by-side">
     <div class="toleft">
-        <img class="image" src="{{ site.url }}/{{ site.picture }}" alt="Alt Text">
-        <figcaption class="caption">Photo by John Doe</figcaption>
-    </div>
-
-    <div class="toright">
-        <p>1. Stel een lokaal hitteplan op! 
-          Het hitteplan is een acuut instrument/draaiboek dat zich vooral richt op communicatie naar de bevolking en direct uitvoerbare acties. 
-          Begin bij de vernieuwde handreiking lokaal hitteplan: https://klimaatadaptatienederland.nl/hulpmiddelen/overzicht/lokaal-hitteplan/</p>
-    </div>
-</div>
-{% endhighlight %}
-
-<div class="side-by-side">
-    <div class="toleft">
-        <img class="image" src="{{ site.url }}/{{ site.picture }}" alt="Alt Text">
-        <figcaption class="caption">Photo by John Doe</figcaption>
+        <img class="image" src="assets/images/meneer-heeft-het-warm.jpeg" alt="meneer die het warm heeft">
     </div>
 
     <div class="toright">
