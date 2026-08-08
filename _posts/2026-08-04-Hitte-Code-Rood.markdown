@@ -19,6 +19,7 @@ hidden: false
 
 In juni 2026 heeft het KNMI voor het eerst in de geschiedenis code rood afgegeven in verband met ernstige hitte in Nederland. 
 De kleurcodes van het KNMI voor hitte: 
+
 | Code Geel                                | Code Oranje                                       | Code Rood                                             |
 |------------------------------------------|---------------------------------------------------|-------------------------------------------------------|
 | 1 dag met maximumtemperatuur vanaf 35 °C | 3 dagen op rij met maximumtemperatuur vanaf 34 °C | "Extreem weer met een grote impact op de samenleving" |
