@@ -40,4 +40,4 @@ Gezondheid staat nooit op zichzelf: ze wordt beïnvloed door de omgeving waarin 
 
 ## In contact komen
 
-Heb je een vraag over gezondheid, preventie of beleid, loop je vast met een vraagstuk over de gezonde leefomgeving, of wil je gewoon eens sparren? Neem gerust contact op — ik denk graag met je mee.
+Heb je een vraag over (publieke) gezondheid, preventie of beleid, loop je vast met een vraagstuk over de gezonde leefomgeving, of wil je gewoon eens sparren? Neem gerust contact op. 
