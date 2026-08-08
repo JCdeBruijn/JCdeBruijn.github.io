@@ -24,6 +24,7 @@ De kleurcodes van het KNMI voor hitte:
 | 1 dag met maximumtemperatuur vanaf 35 °C | 3 dagen op rij met maximumtemperatuur vanaf 34 °C | "Extreem weer met een grote impact op de samenleving" |
 |                                          | 2 dagen op rij met maximumtemperatuur vanaf 36 °C |                                                       |
 |                                          | 1 dag met maximumtemperatuur vanaf 38 °C          |                                                       |
+
 Code rood is dus een extra waarschuwing bovenop code oranje, wanneer er sprake is van (ernstige) maatschappelijke ontwrichting. Dit wordt besloten in het "weerimpactteam". Er is geen bepaalde temperatuur die als drempelwaarde geldt voor het afgeven van code rood. 
 
 Verschillende organisaties hebben door de afgegeven waarschuwing voor hitte activiteiten en evenementen verplaatst of afgelast. 
