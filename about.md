@@ -32,7 +32,3 @@ Gezondheid staat nooit op zichzelf: ze wordt beïnvloed door de omgeving waarin 
 - Projectleiding
 - Fondsenwerving
 - Maatschappelijke betrokkenheid
-
-## In contact komen
-
-Heb je een vraag over (publieke) gezondheid, preventie of beleid, loop je vast met een vraagstuk over de gezonde leefomgeving, of wil je gewoon eens sparren? Neem gerust contact op. 
