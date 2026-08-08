@@ -1,7 +1,7 @@
 ---
 title: "Wat is preventie?"
 layout: post
-date: 2026-08-02 19:00
+date: 2026-09-04 19:00
 image: /assets/images/markdown.jpg
 headerImage: false
 tag: 
