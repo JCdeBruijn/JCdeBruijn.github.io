@@ -6,11 +6,10 @@ layout: page
 ## Over mij
 
 <p>
-	Mijn achtergrond ligt in de Biomedische Wetenschappen & Filosofie. Deze opleidingen heb ik gevolgd aan de Rijksuniversiteit Groningen. Daarnaast ben ik ook (beperkt) bevoegd 2e-graads docent biologie. 
+	Mijn achtergrond ligt in de Biomedische Wetenschappen (Biomedical Sciences) & Filosofie (Philosophy, Science and Humanities). Daarnaast ben ik ook beperkt bevoegd 2e-graads docent biologie. 
 </p>
 <p>
-	In mijn werk richt ik me op preventie, het gezond inrichten van de leefomgeving en het duiden van (mogelijke) gezondheidsrisico's van externe factoren. 
-	Daartoe adviseer ik gemeenten, instellingen, professionals en burgers. Voorkomen is beter dan genezen!
+In mijn werk richt ik me op preventie, het gezond inrichten van de leefomgeving en het duiden van (mogelijke) gezondheidsrisico's van externe factoren. Daartoe adviseer ik gemeenten, instellingen, professionals en burgers. Voorkomen is beter dan genezen! 
 </p>
 
 ## Vaardigheden
