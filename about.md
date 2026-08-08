@@ -22,18 +22,13 @@ Gezondheid staat nooit op zichzelf: ze wordt beïnvloed door de omgeving waarin 
 
 ## Vaardigheden
 
-**Advies & beleid**
 - Strategisch advies
 - Beleidsontwikkeling
 - Publieke gezondheid
 - Lokale overheid
-
-**Onderzoek & kennisoverdracht**
 - Onderzoek
 - Spreken in het openbaar
 - Lesgeven
-
-**Organisatie & verbinding**
 - Projectleiding
 - Fondsenwerving
 - Maatschappelijke betrokkenheid
