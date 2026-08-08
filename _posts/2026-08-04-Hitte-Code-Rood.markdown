@@ -17,18 +17,33 @@ hidden: false
 
 ## Voor het eerst code rood in Nederland voor hitte
 
-In juni 2026 heeft het KNMI voor het eerst in de geschiedenis code rood afgegeven in verband met ernstige hitte. 
-Code rood is een extra waarschuwing bovenop code oranje, wanneer er sprake is van (ernstige) maatschappelijke ontwrichting.
+In juni 2026 heeft het KNMI voor het eerst in de geschiedenis code rood afgegeven in verband met ernstige hitte in Nederland. 
+De kleurcodes van het KNMI voor hitte: 
+| Code Geel                                | Code Oranje                                       | Code Rood                                             |
+|------------------------------------------|---------------------------------------------------|-------------------------------------------------------|
+| 1 dag met maximumtemperatuur vanaf 35 °C | 3 dagen op rij met maximumtemperatuur vanaf 34 °C | "Extreem weer met een grote impact op de samenleving" |
+|                                          | 2 dagen op rij met maximumtemperatuur vanaf 36 °C |                                                       |
+|                                          | 1 dag met maximumtemperatuur vanaf 38 °C          |                                                       |
+Code rood is dus een extra waarschuwing bovenop code oranje, wanneer er sprake is van (ernstige) maatschappelijke ontwrichting. Dit wordt besloten in het "weerimpactteam". Er is geen bepaalde temperatuur die als drempelwaarde geldt voor het afgeven van code rood. 
 
-Verschillende organisaties hebben door de hitte activiteiten en evenementen verplaatst of afgelast. 
+Verschillende organisaties hebben door de afgegeven waarschuwing voor hitte activiteiten en evenementen verplaatst of afgelast. 
 Daarnaast was het druk op de spoedeisende hulp in het hele land door patiënten die binnenkwamen met hitte-gerelateerde gezondheidsklachten. 
+Het RIVM heeft de oversterfte rondom deze hittegolf geanalyseerd en komt uit op ongeveer [900 extra sterfgevallen](https://www.rivm.nl/nieuws/ook-in-week-na-hitteperiode-eind-juni-meer-sterfgevallen-dan-verwacht), waarschijnlijk als gevolg van de hitte. 
 
 De komende jaren zullen we vaker te maken krijgen met opschaling van (crisis)structuren in verband met extreme hitte. 
 Hierbij kan de vraag naar boven komen: Wat kan de gemeenteambtenaar nu doen om de gevolgen van de toenemende hitte te beperken?
 
+## Wat kan een gemeente doen tegen extreme hitte?
+
+1. Stel een lokaal hitteplan op! Het lokaal hitteplan is een acuut instrument/draaiboek dat zich richt op communicatie naar de bevolking en direct uitvoerbare acties. Begin bij de [vernieuwde handreiking lokaal hitteplan](https://klimaatadaptatienederland.nl/hulpmiddelen/overzicht/lokaal-hitteplan/). De gemeente is coördinator van het lokaal hitteplan, maar uiteindelijk wordt het vastgesteld samen met lokale partners. 
+
+2. Maak integraal hittebeleid met een integraal actieplan hitte. Dit is een beleidsinstrument waarmee kan worden gewerkt aan preventie en lange(re) termijn maatregelen tegen hitte. Ook hier is [een handreiking](klimaatadaptatienederland.nl/hulpmiddelen/overzicht/menukaart-hitte/) voor beschikbaar. Het integraal actieplan hitte is onderdeel van het bredere klimaatadaptatie- en gezondheidsbeleid is de gemeente. 
+
+Meer tips en bronnen zijn te vinden op de website van [GGD-GHOR NL](https://ggdghor.nl/actueel-bericht/hitte-tips/). Daarnaast kan je je lokale GGD altijd vragen om advies en ondersteuning. 
+
 ## Analyse NIPV
 
-Het Nederlands Instituut voor Publieke Veiligheid (NIPV) heeft een analyse naar de impact en (crisis)respons uitgevoerd.
+Het Nederlands Instituut voor Publieke Veiligheid (NIPV) heeft een analyse naar de impact en (crisis)respons tijdens de hittegolf in juni 2026 uitgevoerd.
 Deze analyse is [hier](https://nipv.nl/wp-content/uploads/2026/07/20260728_NIPV-Extreme-hitte-in-Nederland.pdf) te vinden. 
 De invalshoek van het NIPV is een goede toevoeging op het perspectief van publieke gezondheid. 
 
@@ -41,14 +56,4 @@ Een aantal quotes uit de analyse:
 >"𝘋𝘦𝘻𝘦 𝘩𝘪𝘵𝘵𝘦𝘱𝘦𝘳𝘪𝘰𝘥𝘦 𝘸𝘢𝘴 𝘨𝘦𝘦𝘯 𝘨𝘦𝘣𝘦𝘶𝘳𝘵𝘦𝘯𝘪𝘴 𝘥𝘪𝘦 𝘷𝘳𝘰𝘦𝘨 𝘰𝘮 𝘷𝘦𝘦𝘭 𝘨𝘳𝘰𝘵𝘦 𝘣𝘦𝘴𝘭𝘪𝘴𝘴𝘪𝘯𝘨𝘦𝘯; 𝘩𝘦𝘵 𝘨𝘪𝘯𝘨 𝘸𝘦𝘭 𝘨𝘦𝘱𝘢𝘢𝘳𝘥 𝘮𝘦𝘵 𝘦𝘯𝘪𝘨𝘦 𝘣𝘦𝘴𝘵𝘶𝘶𝘳𝘭𝘪𝘫𝘬𝘦 𝘰𝘯𝘻𝘦𝘬𝘦𝘳𝘩𝘦𝘪𝘥 (𝘨𝘦𝘦𝘯 𝘱𝘭𝘢𝘯𝘯𝘦𝘯 𝘰𝘧 𝘤𝘩𝘦𝘤𝘬𝘭𝘪𝘴𝘵; 𝘨𝘦𝘦𝘯 𝘰𝘧 𝘸𝘦𝘪𝘯𝘪𝘨 𝘦𝘳𝘷𝘢𝘳𝘪𝘯𝘨 𝘮𝘦𝘵 𝘻𝘰’𝘯 𝘨𝘦𝘣𝘦𝘶𝘳𝘵𝘦𝘯𝘪𝘴)"
 
 Er worden een aantal aanbevelingen gegeven voor vervolgbeleid. Onder andere wordt er een punt gemaakt over het verbreden van het nationaal hitteplan naar acties m.b.t. veiligheid en infrastructuur, naast acties en communicatie op het gebied van gezondheid. 
-
-## Wat kan een gemeente doen tegen extreme hitte?
-
-1. Stel een lokaal hitteplan op! Het lokaal hitteplan is een acuut instrument/draaiboek dat zich richt op communicatie naar de bevolking en direct uitvoerbare acties. Begin bij de [vernieuwde handreiking lokaal hitteplan](https://klimaatadaptatienederland.nl/hulpmiddelen/overzicht/lokaal-hitteplan/). De gemeente is coördinator van het lokaal hitteplan, maar uiteindelijk wordt het vastgesteld samen met lokale partners. 
-
-2. Maak integraal hittebeleid met een integraal actieplan hitte. Dit is een beleidsinstrument waarmee kan worden gewerkt aan preventie en lange(re) termijn maatregelen tegen hitte. Ook hier is [een handreiking](klimaatadaptatienederland.nl/hulpmiddelen/overzicht/menukaart-hitte/) voor beschikbaar. Het integraal actieplan hitte is onderdeel van het bredere klimaatadaptatie- en gezondheidsbeleid is de gemeente. 
-
-Meer tips en bronnen zijn te vinden op de website van [GGD-GHOR NL](https://ggdghor.nl/actueel-bericht/hitte-tips/). Daarnaast kan je je lokale GGD altijd vragen om advies en ondersteuning. 
-
-
-
+Op dit moment is de koppeling tussen gezondheid en veiligheid mbt klimaatadaptatie en hitte nog zeer beperkt. Om deze te verbeteren is samenwerking tussen lokale overheden, GGD'en en Veiligheidsregio's van groot belang. 
